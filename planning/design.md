@@ -1,17 +1,15 @@
 # Design
 
-## Project's design overview
+## Project's Design Overview
 
-> Give an overview of your project's design
+The **Recipe** web application offers a user-friendly way for individuals to search and view recipes using a public API such as [TheMealDB](https://www.themealdb.com/api.php). It displays essential recipe information including the name, cuisine, category, instructions, and an image.
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+- **Clean & Focused UI**: Simple and visually clear interface with a centered search bar and recipe results.
+- **Responsive Layout**: Optimized for both desktop and mobile screens with flexible containers and media queries.
+- **Modular Code Structure**: Organizes the project into reusable parts—API calls, UI components, event listeners, and handler functions.
+- **User-Friendly Search**: Allows recipe search via input from user.
 
 ---
 
-## Wireframe(s)
-
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+## Wireframe  
+![Recipe](./wirframe.png)
